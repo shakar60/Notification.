@@ -5,7 +5,3 @@ game.StarterGui:SetCore("SendNotification", {
     Text = "Made By shakar#6955";
 
 })
-
--- Main Hub --
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Official/main/shakars%20hub",true))()
