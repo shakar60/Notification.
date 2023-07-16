@@ -1,0 +1,5 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Notification!";
+    Text = "Made By shakar#6955";
+
+})
