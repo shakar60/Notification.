@@ -1,7 +1,7 @@
 -- Notifacation --
 
-game.StarterGui:SetCore("SendNotification", {
-    Title = "Notification!";
-    Text = "Made By shakar#6955";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Notification./main/shakar%236955",true))()
 
-})
+-- Main Hub --
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Official/main/shakars%20hub",true))()
